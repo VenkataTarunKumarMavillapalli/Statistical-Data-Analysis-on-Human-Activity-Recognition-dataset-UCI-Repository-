@@ -7,7 +7,7 @@ Then we have used Lasso Regression for Feature selection.
 
 In Classification we used Support Vector Machine, Logistic Regression, Decision Tree and Random forest, where me constructed confusion matrix for all the models and used Accuracy, precision and Kappa statistics, recall and f-1 score has our statistical measures to find the best model which suites for the problem. Finally we performed K-fold cross validation to validate if the model is not overfitted.
 
-Data Set Information:
+Data Set Information: (https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones) <- You can download dataset from here.
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
 
