@@ -1,7 +1,11 @@
-### Hi there 👋
+Statistical Data Analysis on Human Activity Recognition Data Set
 
-<!--
-**mvtkop/mvtkop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We have understood the data and features in the Human Activity Recognition Dataset, Defined a problem statement(The goal is to help in building an app for Healthcare Monitoring which uses sensors(accelorometer, gyroscope) to collect data from our mobile phone to predict Physical Activity accurately. We used the few stastical measures to find the final model which best suits and predicts activity correctly. Which can positively impact the lives of millions of people across different industries, including healthcare, sports, fitness. ). 
+
+Performed Data Pre- Processing and Cleaning to exclude if there are any missing values, checked for outliers to remove bad data, used descriptive statistics to providing basic information about variables in a dataset and highlighting potential relationships between variables using graphical/pictorial Methods. We also tried Multidimensional Data Analysis where we used Hierarchical and K-means Clustering to find distinct group within our data and then done correlation analysis for dimensionality reduction has our dataset is High dimensional data.
+Then we have used Lasso Regression for Feature selection. 
+
+In Classification we used Support Vector Machine, Logistic Regression, Decision Tree and Random forest, where me constructed confusion matrix for all the models and used Accuracy, precision and Kappa statistics, recall and f-1 score has our statistical measures to find the best model which suites for the problem. Finally we performed K-fold cross validation to validate if the model is not overfitted.
 
 Data Set Information:
 
